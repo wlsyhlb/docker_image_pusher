@@ -1,3 +1,4 @@
 nginx
 
 ollama/ollama
+3.13.0b2-alpine3.20
