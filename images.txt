@@ -1,1 +1,1 @@
-eosphorosai/dbgpt:latest
+langgenius/dify-sandbox:0.2.7
