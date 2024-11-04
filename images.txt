@@ -1,4 +1,3 @@
-langgenius/dify-api:latest
-
+python:3.12.7-bullseye
 
 
