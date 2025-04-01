@@ -1,1 +1,1 @@
-vllm/vllm-openai
+python:3.12.9-bullseye
