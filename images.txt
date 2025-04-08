@@ -1,1 +1,1 @@
-redhat/ubi8
+python:3.10.16-bullseye  
