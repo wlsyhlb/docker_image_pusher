@@ -1,1 +1,4 @@
-python:3.10.16-bullseye  
+langgenius/dify-api:1.1.2
+langgenius/dify-plugin-daemon:0.0.6-local
+langgenius/dify-api:1.1.2
+langgenius/dify-web:1.1.2
