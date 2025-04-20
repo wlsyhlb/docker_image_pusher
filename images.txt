@@ -1,4 +1,5 @@
-langgenius/dify-api:1.1.2
-langgenius/dify-plugin-daemon:0.0.6-local
-langgenius/dify-api:1.1.2
-langgenius/dify-web:1.1.2
+langgenius/dify-api:1.2.0 
+langgenius/dify-plugin-daemon:0.0.7-local
+ubuntu/squid:latest
+langgenius/dify-web:1.2.0
+langgenius/dify-sandbox:0.2.11
