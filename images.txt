@@ -1,1 +1,1 @@
-lmsysorg/sglang
+ghcr.io/huggingface/text-generation-inference:3.3.0
