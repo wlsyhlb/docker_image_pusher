@@ -1,1 +1,1 @@
-ghcr.io/conardli/easy-dataset
+lmsysorg/sglang:v0.4.7-cu124
