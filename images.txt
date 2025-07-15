@@ -1,4 +1,1 @@
-ghcr.io/simstudioai/simstudio:latest
-ghcr.io/simstudioai/realtime:latest
-ghcr.io/simstudioai/migrations:latest
-pgvector/pgvector:pg17
+vllm/vllm-openai:v0.9.2
